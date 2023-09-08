@@ -1,0 +1,16 @@
+C:\Users\acer\Desktop\IT202\test\test\bin\Debug\net6.0-windows\test.exe
+C:\Users\acer\Desktop\IT202\test\test\bin\Debug\net6.0-windows\test.deps.json
+C:\Users\acer\Desktop\IT202\test\test\bin\Debug\net6.0-windows\test.runtimeconfig.json
+C:\Users\acer\Desktop\IT202\test\test\bin\Debug\net6.0-windows\test.dll
+C:\Users\acer\Desktop\IT202\test\test\bin\Debug\net6.0-windows\test.pdb
+C:\Users\acer\Desktop\IT202\test\test\obj\Debug\net6.0-windows\test.Form1.resources
+C:\Users\acer\Desktop\IT202\test\test\obj\Debug\net6.0-windows\test.vbproj.GenerateResource.cache
+C:\Users\acer\Desktop\IT202\test\test\obj\Debug\net6.0-windows\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\IT202\test\test\obj\Debug\net6.0-windows\test.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\IT202\test\test\obj\Debug\net6.0-windows\test.AssemblyInfo.vb
+C:\Users\acer\Desktop\IT202\test\test\obj\Debug\net6.0-windows\test.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\IT202\test\test\obj\Debug\net6.0-windows\test.dll
+C:\Users\acer\Desktop\IT202\test\test\obj\Debug\net6.0-windows\refint\test.dll
+C:\Users\acer\Desktop\IT202\test\test\obj\Debug\net6.0-windows\test.pdb
+C:\Users\acer\Desktop\IT202\test\test\obj\Debug\net6.0-windows\test.genruntimeconfig.cache
+C:\Users\acer\Desktop\IT202\test\test\obj\Debug\net6.0-windows\ref\test.dll
